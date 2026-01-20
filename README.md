@@ -35,6 +35,11 @@ nest g pi common/pipes/parseMongoId --no-spec
 ```bash
 nest g res seed --no-spec
 ```
+9. Reconstruir la DB con un seed
+```bash
+http://localhost:3000/api/v2/seed
+```
+
 
 ##  Stack Usado
 *MongoDB
