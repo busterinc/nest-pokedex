@@ -31,7 +31,10 @@ nest g mo common
 ```bash
 nest g pi common/pipes/parseMongoId --no-spec
 ```
-
+8. Generar un Seed
+```bash
+nest g res seed --no-spec
+```
 
 ##  Stack Usado
 *MongoDB
