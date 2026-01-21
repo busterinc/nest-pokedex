@@ -53,6 +53,20 @@ http://localhost:3000/api/v2/seed
 yarn add @nestjs/config
 ```
 
+11. Joi validations
+```bash
+yarn add joi
+```
+
+12. Clonar el archivo __.env.template__ y renombrar la copia a __.env__
+
+13. Llenar las variables de entorno definidas en el .env
+
+14. Ejecutar la aplicacion de desarrollo en dev con
+```bash
+yarn run start:dev
+```
+
 
 ##  Stack Usado
 *MongoDB
